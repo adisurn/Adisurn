@@ -8,7 +8,7 @@
   <h1>Hi, I'm Adisuarn 👋</h1>
 
   <p>
-    Full-stack web developer focused on building modern, performant, and user-friendly applications.
+    Sleepy full-stack web developer.
   </p>
 
   <p>
@@ -31,10 +31,7 @@
 
 ## About Me
 
-* 💻 Interested in full-stack web development and software engineering
-* ⚡ Focused on performance, accessibility, and maintainable architecture
-* ☁️ Experienced with modern serverless and cloud platforms
-* 🎓 Building educational and community-focused digital products
+* 😴 I want to get as much sleep as possible
 
 ## Languages
 
