@@ -80,12 +80,12 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/adisurn/adisurn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    src="https://github-stats-extended.vercel.app/api?username=adisurn&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha"
     height="150"
     alt="GitHub statistics"
   />
   <img
-    src="https://raw.githubusercontent.com/adisurn/adisurn/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=adisurn&langs_count=4&theme=catppuccin_mocha"
     height="150"
     alt="Most used languages"
   />
