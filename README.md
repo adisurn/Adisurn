@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt6d2w4NGU2OTV0bjFnajRxYzhpMm5rODBxenlob3phdDIxNHE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9x1dAcxdN8xtsRbjcx/giphy.gif"
+    src="./assets/penguin.webp"
     height="150"
     alt="Welcome animation"
   />
