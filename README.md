@@ -1,134 +1,104 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt6d2w4NGU2OTV0bjFnajRxYzhpMm5rODBxenlob3phdDIxNHE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9x1dAcxdN8xtsRbjcx/giphy.gif"  />
+<div align="center">
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt6d2w4NGU2OTV0bjFnajRxYzhpMm5rODBxenlob3phdDIxNHE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9x1dAcxdN8xtsRbjcx/giphy.gif"
+    height="150"
+    alt="Welcome animation"
+  />
+
+  <h1>Hi, I'm Adisuarn 👋</h1>
+
+  <p>
+    Full-stack web developer focused on building modern, performant, and user-friendly applications.
+  </p>
+
+  <p>
+    <a href="https://www.facebook.com/adisuarn/">
+      <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="mailto:adisuarn.w@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.instagram.com/adisuarn/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://discord.com/users/412940765870948372">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://www.facebook.com/adisuarn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="mailto:adisuarn.w@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/adisuarn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/412940765870948372" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+## About Me
+
+* 💻 Interested in full-stack web development and software engineering
+* ⚡ Focused on performance, accessibility, and maintainable architecture
+* ☁️ Experienced with modern serverless and cloud platforms
+* 🎓 Building educational and community-focused digital products
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,md" alt="Programming and markup languages" />
+</p>
+
+## Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,threejs" alt="Frameworks and libraries" />
+</p>
+
+## Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,prisma,firebase,supabase,appwrite" alt="Databases and backend technologies" />
+</p>
+
+## Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare,aws,azure,vercel,netlify,github,figma,postman" alt="Tools and platforms" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project                       | Description                                      | Website                                     |
+| ----------------------------- | ------------------------------------------------ | ------------------------------------------- |
+| **Idea Tutor**                | Online learning platform for students and tutors | [Visit website](https://www.idea-tutor.com) |
+| **Taladgames**                | Digital marketplace platform                     | [Visit website](https://taladgames.com)     |
+| **TriamUdom Open House 2025** | Project created for Triam Udom Open House 2025   | —                                           |
+
+## Collaborations
+
+| Project                          | Website                                                                  |
+| -------------------------------- | ------------------------------------------------------------------------ |
+| **TriamUdom Schedule Generator** | [schedule.tucm.cc](https://schedule.tucm.cc)                             |
+| **TriamUdom Club Registration**  | [register.clubs.triamudom.ac.th](https://register.clubs.triamudom.ac.th) |
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/adisurn/adisurn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    height="150"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://raw.githubusercontent.com/adisurn/adisurn/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2"
+    height="150"
+    alt="Most used languages"
+  />
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left">Programming & Markup Language</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/adisurn/adisurn/snake-output/snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </div>
-
-###
-
-<h2 data-importer="text" align="left">Tech Stack & Library</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="left">Tools</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="left">Projects</h2>
-
-###
-
-<p data-importer="text" align="left">TriamUdom Openhouse 2025</p>
-
-###
-
-<p data-importer="text" align="left">Idea Tutor <a href="https://www.idea-tutor.com" target="_blank">[live]</a></p>
-
-###
-
-<p data-importer="text" align="left">Taladgames <a href="https://taladgames.com" target="_blank">[live]</a></p>
-
-###
-
-<h2 data-importer="text" align="left">Collaborators</h2>
-
-###
-
-<p data-importer="text" align="left">TriamUdom Schedule Generator <a href="https://schedule.tucm.cc" target="_blank">[live]</a></p>
-
-###
-
-<p data-importer="text" align="left">TriamUdom Club Registration <a href="https://register.clubs.triamudom.ac.th" target="_blank">[live]</a></p>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/adisurn/adisurn/snake-output/snake.svg" alt="Snake animation" />
-
-###
