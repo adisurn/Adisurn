@@ -8,7 +8,7 @@
   <h1>Hi, I'm Adisuarn 👋</h1>
 
   <p>
-    Sleepy full-stack web developer.
+    Sleepy full-stack developer.
   </p>
 
   <p>
