@@ -5,7 +5,7 @@
     alt="Welcome animation"
   />
 
-  <h1>Hi, I'm Adisuarn 👋</h1>
+  <h1>Hi, I'm Adisurn 👋</h1>
 
   <p>
     Sleepy full-stack developer.
